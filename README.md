@@ -6,7 +6,7 @@
 
 - 🍉 活跃社区：cnblogs | juejin | csdn
 
-![Lizongxiao's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
+![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
 
 ## 🍯 我的文章
