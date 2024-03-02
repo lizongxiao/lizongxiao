@@ -1,4 +1,4 @@
-# 🍰 我是 Chiffon
+# 🍰 我是 Chiffon(Lizongxiao)
 
 - 🍎 2 年前端开发，计算机本科毕业，Vue JS 重度爱好者，前端领域周更博主。
 
