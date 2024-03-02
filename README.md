@@ -6,6 +6,9 @@
 
 - 🍉 活跃社区：cnblogs | juejin | csdn
 
+![Lizongxiao's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lizongxiao&show_icons=true&count_private=true&theme=gotham)
+
+
 ## 🍯 我的文章
 - 公众号「小狮子前端」
   - 🍓 更新内容：技术栈领域新发现、工作日常提升效能方法、工具等。
