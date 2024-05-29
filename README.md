@@ -18,6 +18,7 @@
 - 整合个人资源网站，包括但不限于：在个人网站上分享前端知识、技术栈分析、软件分享（目前使用第三方存储）
 
 ## 💭 文章最近更新
+- [ts拯救前端：优雅的在运行时校验后端接口返回数据类型 typescript-json-schema+ ajv](https://www.cnblogs.com/zhengzhijian/p/18219996)
 - [复写原生xhr,对请求的进一步扩展](https://www.cnblogs.com/zhengzhijian/p/17960813)
 - [应用如何接入第三方网盘（例如百度网盘）](https://www.cnblogs.com/zhengzhijian/p/17888535.html)
 - [谷歌插件/扩展(chrome extensions )学习](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
