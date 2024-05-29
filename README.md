@@ -6,16 +6,8 @@
 
 - 🍉 活跃社区：cnblogs | juejin | csdn
 
-## 项目技术栈
-![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
-## 已掌握技术栈
-| 领域     | 语言/框架       |
-|----------|------------------|
-| 前端     | JavaScript, Vue.js, React |
-| 后端     | Node.js          |
-| 数据库   | MongoDB, MySQL   |
-| 其他     | HTML, CSS, Git   |
+![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
 
 ## 🍯 我的文章
