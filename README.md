@@ -20,8 +20,8 @@
 ## 💭 文章最近更新
 - [ts拯救前端：优雅的在运行时校验后端接口返回数据类型 typescript-json-schema+ ajv](https://www.cnblogs.com/zhengzhijian/p/18219996)
 - [封装复写XHR/AJAX,对请求的进一步扩展](https://www.cnblogs.com/zhengzhijian/p/17960813)
-- [应用接入网盘实践（例如百度网盘）](https://www.cnblogs.com/zhengzhijian/p/17888535.html)
-- [谷歌插件/扩展(chrome extensions )学习](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
+- [应用接入网盘实践（如百度网盘）](https://www.cnblogs.com/zhengzhijian/p/17888535.html)
+- [谷歌插件/扩展(chrome extensions )项目开发](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
 - [vue3使用mitt/eventbus 实现跨组件之间通信 （不限制组件之间关系）](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
 
 更多原创文章，请关注 [Chiffon1996](https://home.cnblogs.com/u/zhengzhijian)  
