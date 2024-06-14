@@ -23,6 +23,7 @@
 | 后端框架   | Express                 | 中等      | Node.js框架，用于构建RESTful API     |
 |            | midway                   | 一般     | 基于 Egg.js 的 Node.js 企业级框架    |
 |            | Spring Boot             | 一般      | Java后端开发框架                    |
+| 桌面开发框架 | Electron               | 熟练      | 用于构建跨平台桌面应用              |
 | 数据库     | MySQL                   | 一般      | 关系型数据库，常用SQL查询            |
 |            | MongoDB                 | 一般     | NoSQL数据库，适合处理非结构化数据    |
 | DevOps工具 | Docker                  | 中等      | 容器化工具，方便部署和管理应用        |
