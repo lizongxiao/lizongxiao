@@ -9,7 +9,7 @@
 
 ![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
-# 🔧掌握的技术栈
+# 🔧 掌握的技术栈
 
 | 类别       | 技术/工具                | 掌握程度   | 备注                                |
 | ---------- | ----------------------- | -------- | ----------------------------------- |
