@@ -35,7 +35,6 @@
 |                    | Jenkins               | Intermediate| Continuous integration tool for automated builds and deployments |
 
 
-https://profile-counter.glitch.me/lizongxiao/count.svg
 
 ## 💭 Latest Article Updates
 - [ts拯救前端：优雅的在运行时校验后端接口返回数据类型 typescript-json-schema+ ajv](https://www.cnblogs.com/zhengzhijian/p/18219996)
@@ -48,3 +47,5 @@ https://profile-counter.glitch.me/lizongxiao/count.svg
 ## 🎯 Goals for 2024
 - Combining online websites with hybrid applications and development, packing and sending to various platforms
 
+
+![Profile Views](https://profile-counter.glitch.me/lizongxiao/count.svg)
