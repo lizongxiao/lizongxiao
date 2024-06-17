@@ -13,7 +13,7 @@
 
 ![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
-# 🔧 Technology Stack
+## 🔧 Technology Stack
 
 | Category           | Technology/Tool       | Proficiency | Notes                                                    |
 |--------------------|-----------------------|-------------|----------------------------------------------------------|
@@ -47,5 +47,5 @@
 ## 🎯 Goals for 2024
 - Combining online websites with hybrid applications and development, packing and sending to various platforms
 
-
+## Views
 ![Profile Views](https://profile-counter.glitch.me/lizongxiao/count.svg)
