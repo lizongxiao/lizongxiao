@@ -47,5 +47,5 @@
 ## 🎯 Goals for 2024
 - Combining online websites with hybrid applications and development, packing and sending to various platforms
 
-## 👀 Views
-![Profile Views](https://profile-counter.glitch.me/lizongxiao/count.svg)
+## 👀 
+![Views](Viewshttps://komarev.com/ghpvc/?username=lizongxiao)
