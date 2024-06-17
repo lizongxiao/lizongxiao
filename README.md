@@ -135,16 +135,6 @@
 
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-
-
 ## 💭 Latest Article Updates
 - [ts拯救前端：优雅的在运行时校验后端接口返回数据类型 typescript-json-schema+ ajv](https://www.cnblogs.com/zhengzhijian/p/18219996)
 - [封装复写XHR/AJAX,对请求的进一步扩展](https://www.cnblogs.com/zhengzhijian/p/17960813)
