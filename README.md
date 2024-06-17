@@ -13,6 +13,7 @@
 
 ![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
+
 ## 🔧 Technology Stack
 
 | Category           | Technology/Tool       | Proficiency | Notes                                                    |
@@ -34,6 +35,8 @@
 | Other Tools         | Git                   | Proficient  | Version control tool                                     |
 |                    | Jenkins               | Intermediate| Continuous integration tool for automated builds and deployments |
 
+
+![https://www.w3.org/standards/](https://camo.githubusercontent.com/47beac1912971fa93821ad3456032a17e356fc3fa0d26032aa26e5b2d29b4727/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966)
 
 
 ## 💭 Latest Article Updates
