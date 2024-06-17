@@ -35,42 +35,103 @@
 | Other Tools         | Git                   | Proficient  | Version control tool                                     |
 |                    | Jenkins               | Intermediate| Continuous integration tool for automated builds and deployments |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt.js" width="40" height="40"/>
-  </a>
-  <a href="https://uniapp.dcloud.net.cn/" target="_blank">
-    <img src="https://img-cdn-qiniu.dcloud.net.cn/uniapp/docs/logo.png" alt="uniapp" width="40" height="40"/>
-  </a>
-  <a href="https://taro-docs.jd.com/" target="_blank">
-    <img src="https://taro-docs.jd.com/logo-taro.png" alt="taro" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-  </a>
-  <a href="https://developers.weixin.qq.com/miniprogram/dev/" target="_blank">
-    <img src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" alt="wechat mini program" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-</p>
+  <h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          alt="html5"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+          alt="css3"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          alt="javascript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+          alt="vscode"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://nuxtjs.org/" target="_blank">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+          alt="nuxt.js"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://uniapp.dcloud.net.cn/" target="_blank">
+        <img
+          src="data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAAkoAAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAADgAAAA4AAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQAMAAAAABNjb2xybmNseAACAAIABoAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAAlJtZGF0EgAKCRgVd92CBAQNCDK6BBGAAABQ3StPm74WW3y56rGi/Vc20CiVw3aUdID+87djoSyR6XoUuvNFUt04OElIw0Rpk5xdYA9ksLIAYITjbS3SiTEXx22cbKUW/QlOuhoDI6F8C5d4Lx9MONnZnN0Sqt7IFoiRaq4z4IV3rx56JVYvS27PogR/yq0M+l8AwVPM3MQkXeDZETk8nZmCsHhHFOfoB97WTpGmuoU4NCR5uE1k+c7yYI71yZknqKQGN0bKCU68reTmGvkLPz85SR2emkMGKKT5dgJ2ybqjSxxsgvWX0HZAyrtnTuzHmEjUWSn/vXrbS5ByY9/Gttz6uctAg2tR2Fl0oYlE4V+AxSDvyL8b1Y/JO/Ws+jAAXEs+xeP6FT60eXq5ytZE0kx2AJnlVefGq/YHI+Kja0ckgDJirlTUr6UiUJQ3GFZztPnkmeVihLGyiUXNNOSf7jy+vApwNJ8Ij5oEp+467lTjNDOMAQouzStVh3O0ATGKW+zUciO9c2zZG/yU1uigWM/5u+7JMkl5ESNjYZ6FCseIljXIJa3fO8Jyu0ygRn8gTIRKJN9A2cnMXSrGk0E5GhnN0ssHbsvkMBnie+4E2TAC6aQbNtEWE+LfKRYg70+L6NL7K5BWnZEoa+9nxr8heIJ/OOUd703ax40BIUkt7C19Ytm6NzK+gPeXXMhP2BovrXw1iifDZiBQ31axKc4RxusywMmA9UCupEilsq+AqQHTP4nTc1vYcZF0wXpBvTo9NNGjEuYuAMDG01Sy3PmLUQ=="
+          data-src=""
+          alt="uniapp"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://taro-docs.jd.com/" target="_blank">
+        <img
+          src="https://img20.360buyimg.com/ling/jfs/t1/20876/36/12835/3043/5c9c2929Ed18cfb11/15b1c03ec830ab8e.png"
+          alt="taro"
+          height="40"
+        />
+      </a>
+      <a href="https://reactjs.org/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          alt="react"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://reactnative.dev/" target="_blank">
+        <img
+          src="https://reactnative.dev/img/header_logo.svg"
+          alt="react native"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://developers.weixin.qq.com/miniprogram/dev/"
+        target="_blank"
+      >
+        <img
+          src="https://res.wx.qq.com/community/dist/community/images/logo_miniprogram_013191.png"
+          alt="wechat mini program"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.electronjs.org/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+          alt="electron"
+          width="40"
+          height="40"
+        />
+      </a>
+    </p>
 
 
 
