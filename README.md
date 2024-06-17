@@ -148,7 +148,7 @@
 - [封装复写XHR/AJAX,对请求的进一步扩展](https://www.cnblogs.com/zhengzhijian/p/17960813)
 - [应用接入网盘实践（如百度网盘）](https://www.cnblogs.com/zhengzhijian/p/17888535.html)
 - [谷歌插件/扩展(chrome extensions )项目开发](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
-- [vue3使用mitt/eventbus 实现跨组件之间通信 （不限制组件之间关系）](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
+- [多种通信方式](https://www.cnblogs.com/zhengzhijian/p/17662200.html)
 
 
 ## 🎯 Goals for 2024
