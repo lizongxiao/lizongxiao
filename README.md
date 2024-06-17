@@ -36,10 +36,13 @@
 |                    | Jenkins               | Intermediate| Continuous integration tool for automated builds and deployments |
 
 
-<a href="https://www.w3.org/standards/" target="_blank">
-  <img src="https://camo.githubusercontent.com/47beac1912971fa93821ad3456032a17e356fc3fa0d26032aa26e5b2d29b4727/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966" alt="W3C Standards" width="50"/>
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 
 ## 💭 Latest Article Updates
