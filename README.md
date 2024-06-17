@@ -48,4 +48,4 @@
 - Combining online websites with hybrid applications and development, packing and sending to various platforms
 
 ## 👀 
-![Views](Viewshttps://komarev.com/ghpvc/?username=lizongxiao)
+https://komarev.com/ghpvc/?username=lizongxiao
