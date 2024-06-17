@@ -50,19 +50,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://nuxtjs.org/" target="_blank">
-    <img src="https://nuxtjs.org/logos/nuxt-icon.svg" alt="nuxt.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt.js" width="40" height="40"/>
+  </a>
+  <a href="https://uniapp.dcloud.net.cn/" target="_blank">
+    <img src="https://img-cdn-qiniu.dcloud.net.cn/uniapp/docs/logo.png" alt="uniapp" width="40" height="40"/>
+  </a>
+  <a href="https://taro-docs.jd.com/" target="_blank">
+    <img src="https://taro-docs.jd.com/logo-taro.png" alt="taro" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-  </a>
-  <a href="https://uniapp.dcloud.net.cn/" target="_blank">
-    <img src="https://img.dcloud.net.cn/uniapp/doc/icon.png" alt="uniapp" width="40" height="40"/>
-  </a>
-  <a href="https://taro-docs.jd.com/" target="_blank">
-    <img src="https://docs.taro.zone/logo-taro.png" alt="taro" width="40" height="40"/>
   </a>
   <a href="https://developers.weixin.qq.com/miniprogram/dev/" target="_blank">
     <img src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" alt="wechat mini program" width="40" height="40"/>
@@ -71,6 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
