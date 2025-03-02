@@ -128,7 +128,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.electronjs.org/" target="_blank">
+      <a href="https://codeium.com/" target="_blank">
         <img
           src="https://codeium.com/logo/windsurf_teal_logo.svg"
           alt="electron"
@@ -136,7 +136,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.electronjs.org/" target="_blank">
+      <a href="https://www.cursor.com/cn" target="_blank">
         <img
           src="https://www.cursor.com/assets/videos/logo/placeholder-logo.webp"
           alt="electron"
