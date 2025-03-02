@@ -120,17 +120,6 @@
           height="40"
         />
       </a>
-      <a
-        href="https://developers.weixin.qq.com/miniprogram/dev/"
-        target="_blank"
-      >
-        <img
-          src="https://res.wx.qq.com/community/dist/community/images/logo_miniprogram_013191.png"
-          alt="wechat mini program"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://www.electronjs.org/" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
