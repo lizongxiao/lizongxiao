@@ -138,7 +138,7 @@
       </a>
       <a href="https://www.electronjs.org/" target="_blank">
         <img
-          src="https://codeium.com/logo/windsurf_teal_logo.svg"
+          src="https://www.cursor.com/assets/videos/logo/placeholder-logo.webp"
           alt="electron"
           width="40"
           height="40"
