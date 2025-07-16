@@ -114,7 +114,7 @@
       </a>
       <a href="https://www.electronjs.org/" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+          src="https://www.electronjs.org/assets/img/logo.svg"
           alt="electron"
           width="40"
           height="40"
