@@ -9,6 +9,8 @@
 - 💬 Discuss issues related to JavaScript , TypeScript with me
 
 - 📫 How to reach me lzx18312122862@gmail.com
+  
+- 🏠 Click to visit my blog at  [here](https://zxhome.online).
 
 
 ![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
@@ -120,7 +122,6 @@
           height="40"
         />
       </a>
-     
       <a href="https://www.cursor.com/cn" target="_blank">
         <img
           src="https://www.cursor.com/assets/videos/logo/placeholder-logo.webp"
@@ -129,7 +130,7 @@
           height="40"
         />
       </a>
-            <a href="https://code.visualstudio.com/" target="_blank">
+        <a href="https://code.visualstudio.com/" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
           alt="vscode"
@@ -138,7 +139,6 @@
         />
       </a>
     </p>
-
 
 
 ## 💭 Latest Article Updates
