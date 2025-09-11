@@ -12,6 +12,8 @@
   
 - 🏠 Click to visit my blog at  [here](https://zxhome.online).
 
+- 📒 Currently working on LLM, VLM, and my special project  [exa-deepseek-chat](https://exa-deepseek-chat-jade.vercel.app/deepseekchat).  a chat tool that uses TS as a development language
+
 
 ![Lizongxiao's 常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizongxiao&layout=compact&hide_border=true&langs_count=10)
 
