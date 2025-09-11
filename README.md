@@ -1,4 +1,4 @@
-# 🍰 HI!👋 I am Chiffon(CO)
+# 🍰 Chiffon(CO) Space
 
 - 👯 I’m looking to collaborate on JavaScript
 
