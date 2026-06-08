@@ -10,7 +10,7 @@
 
 - 📫 How to reach me lzx18312122862@gmail.com
   
-- 🏠 Click to visit my blog at  [here](https://zxhome.online).
+- 🏠 Click to visit my blog at  [here](https://www.lzxblog.online/).
 
 - 📒 Currently working on LLM, VLM, and my special project  [exa-deepseek-chat](https://exa-deepseek-chat-jade.vercel.app/deepseekchat).  a chat tool that uses TS as a development language
 
