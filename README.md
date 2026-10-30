@@ -1,36 +1,90 @@
-# 🍰 Chiffon(CO) Space
 
-- 👯 I’m looking to collaborate on AI application developer
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/lizongxiao](https://github.com/lizongxiao/)
+# Hey, I'm Chiffon (CO) 👋
 
-- 📝 I regulary write articles on Notion
-  
-- 💬 Discuss issues related to JavaScript , TypeScript with me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-stack+Developer+%7C+AI+Application+Builder;Building+AI-powered+products+and+SaaS;From+idea+to+production)](https://github.com/DenverCoder1/readme-typing-svg)
 
-- 📫 How to reach me lzx18312122862@gmail.com
-  
-- 🏠 Click to visit my blog at  [here](https://www.lzxblog.online/).
+**I build useful things, automate the boring stuff, and occasionally break things to understand them better.**
 
-- 📒 Currently working on LLM, VLM, and my special project  [exa-deepseek-chat](https://exa-deepseek-chat-jade.vercel.app/deepseekchat).  a chat tool that uses TS as a development language
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lizongxiao)
+[![Blog](https://img.shields.io/badge/Blog-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lzxblog.online/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lzx18312122862@gmail.com)
 
-## 🔧 Technology Stack
+</div>
 
-| Category           | Technology/Tool       | Proficiency | Notes                                                    |
-|--------------------|-----------------------|-------------|----------------------------------------------------------|
-| Programming Languages | JavaScript            | Proficient  | Mainly used for frontend development                     |
-|                    | TypeScript            | Proficient  | Superset of JavaScript, adds static types                |
-|                    | Python                | Intermediate| For data analysis and backend development                |
-|                    | Java                  | Intermediate| For developing Android applications                      |
-| Frontend Frameworks | React                 | Proficient  | Mainstream frontend framework                            |
-|                    | Vue.js                | Proficient  | Commonly used frontend framework                         |
-|                    | nuxt.js               | Proficient  | SSR framework based on Vue.js                            |
-| Backend Frameworks  | Express               | Intermediate| Node.js framework for building RESTful APIs              |
-|                    | midway                | Intermediate| Enterprise-level framework based on Egg.js for Node.js   |
-|                    | Spring Boot           | Intermediate| Java backend development framework                       |
-| Desktop Frameworks  | Electron              | Proficient  | For building cross-platform desktop applications         |
-| Databases           | MySQL                 | Intermediate| Relational database, commonly used for SQL queries       |
-|                    | MongoDB               | Intermediate| NoSQL database, suitable for handling unstructured data  |
-| DevOps Tools        | Docker                | Intermediate| Containerization tool for easy deployment and management of applications |
-| Other Tools         | Git                   | Proficient  | Version control tool                                     |
-|                    | Jenkins               | Intermediate| Continuous integration tool for automated builds and deployments |
+### A little about me
+
+```typescript
+const chiffon = {
+  role: "Full-stack Developer",
+  focus: ["AI Applications", "SaaS", "Developer Tools"],
+  languages: ["TypeScript", "JavaScript", "Python"],
+  stack: {
+    frontend: ["Vue 3", "React", "Next.js", "Nuxt"],
+    backend: ["Node.js", "NestJS", "MySQL", "Redis"],
+    infrastructure: ["Docker", "Nginx", "GitHub Actions"],
+  },
+  exploring: ["LLM / VLM", "AI Agents", "Go"],
+  philosophy: "Build useful things. Keep it simple.",
+} as const;
+```
+
+I started with frontend engineering and gradually moved into full-stack development, AI integration, system design, and deployment automation. I like taking an idea all the way to a working product.
+
+### What I enjoy building
+
+| Area | What I work on |
+| --- | --- |
+| **AI & Multimodal Apps** | Image/video generation, LLM & VLM integration, prompt optimization, model orchestration, and async workflows. |
+| **SaaS & Business Systems** | Multi-tenant architecture, RBAC, order/inventory management, profit analytics, dashboards, and integrations. |
+| **Developer Tools** | Browser extensions, data collection, workflow automation, and reusable component libraries. |
+| **Backend & Infrastructure** | REST APIs, background workers, Redis caching, Docker deployment, CI/CD, and performance optimization. |
+
+### Tech stack
+
+**Languages:** TypeScript · JavaScript · Python · SQL  
+**Frontend:** Vue 3 · React · Next.js · Nuxt · Vite · Ant Design Vue  
+**Backend:** Node.js · NestJS · Express · REST APIs  
+**AI:** LLM · VLM · Multimodal AI · Prompt Engineering · Model Integration  
+**Data & DevOps:** MySQL · Redis · MongoDB · Docker · Nginx · Linux · GitHub Actions
+
+### A few things I believe
+
+- Good code should be easy to understand, not just clever.
+- Automate the boring stuff; spend time on the interesting problems.
+- Shipping matters more than polishing forever.
+- There's always something new to learn.
+
+### GitHub at a glance
+
+<div align="center">
+
+<a href="https://github.com/lizongxiao">
+  <img height="165" alt="Chiffon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lizongxiao&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/lizongxiao?tab=repositories">
+  <img height="165" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizongxiao&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+### Contributions, but make it a game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lizongxiao/lizongxiao/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lizongxiao/lizongxiao/output/github-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/lizongxiao/lizongxiao/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborating on AI applications, SaaS products, and developer tools.**
+
+*Code. Coffee. Curiosity. Repeat.*
+
+</div>
