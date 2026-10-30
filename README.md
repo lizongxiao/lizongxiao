@@ -1,6 +1,6 @@
 # 🍰 Chiffon(CO) Space
 
-- 👯 I’m looking to collaborate on JavaScript
+- 👯 I’m looking to collaborate on AI application developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/lizongxiao](https://github.com/lizongxiao/)
 
