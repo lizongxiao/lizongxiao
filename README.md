@@ -30,7 +30,7 @@ const chiffon = {
 } as const;
 ```
 
-I started with frontend engineering and gradually moved into full-stack development, AI integration, system design, and deployment automation. I like taking an idea all the way to a working product.
+I focus on building AI-powered applications, scalable software systems, and developer tools. From system architecture and AI integration to workflow automation and production deployment, I enjoy turning complex ideas into reliable, real-world products.
 
 ### What I enjoy building
 
@@ -56,17 +56,19 @@ I started with frontend engineering and gradually moved into full-stack developm
 - Shipping matters more than polishing forever.
 - There's always something new to learn.
 
-### GitHub at a glance
+<h3>GitHub at a glance</h3>
 
 <div align="center">
-
-<a href="https://github.com/lizongxiao">
-  <img height="165" alt="Chiffon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lizongxiao&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/lizongxiao?tab=repositories">
-  <img height="165" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizongxiao&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-</a>
-
+  <img
+    height="165"
+    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=lizongxiao&show_icons=true&theme=transparent&hide_border=true"
+  />
+  <img
+    height="165"
+    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lizongxiao&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  />
 </div>
 
 ### Contributions, but make it a game
